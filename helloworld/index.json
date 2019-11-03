@@ -5,7 +5,7 @@
   "time": "3 minutes",
   "details": {
     "intro": {
-      "courseData": "echo 'test'"
+      "courseData": "installArgoCD.sh"
     },
     "steps": [
       {
