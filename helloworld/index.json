@@ -1,0 +1,26 @@
+{
+  "title": "helloworld",
+  "description": "just a hello world",
+  "difficulty": "Beginner",
+  "time": "3 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal-split"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster"
+  }
+}
