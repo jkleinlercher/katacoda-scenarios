@@ -21,6 +21,6 @@
     "uilayout": "editor-terminal-split"
   },
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "kubernetes-cluster-running"
   }
 }
