@@ -4,6 +4,9 @@
   "difficulty": "Beginner",
   "time": "3 minutes",
   "details": {
+    "intro": {
+      "courseData": "echo 'test'"
+    },
     "steps": [
       {
         "title": "Step 1",
